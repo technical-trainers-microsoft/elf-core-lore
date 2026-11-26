@@ -24,7 +24,7 @@ A **est**, infine, si innalzano gli altopiani ventosi dell'**Unione d'Oriente**,
 
 # Prologo: Morfologia di Alto Crinale
 
-L'anfiteatro di Alto Crinale si legge scendendo dall'anello esterno verso il cuore della valle lungo i **quattro versanti**, ciascuno con la propria progressione **Monte (`> 2400 m`) → Rifugio → Valico → Piana / Lago → Borgo** e il proprio polo operativo. Su tutte e quattro le creste e nei rispettivi rifugi vegliano le stazioni in quota di **Vento Alto**.
+L'anfiteatro di Alto Crinale si legge scendendo dall'anello esterno verso il cuore della valle lungo i **quattro versanti**, ciascuno con la propria progressione **Monte (`> 2400 m`) → Capannina Vento Alto → Rifugio → Valico → Piana / Lago → Borgo** e il proprio polo operativo. Su tutte e quattro le creste — a metà strada tra ciascun rifugio e la rispettiva cima — vegliano le capannine in quota di **Vento Alto**.
 
 <p align="center">
   <img src="assets/mappa-alto-crinale.jpg" alt="Mappa morfologica della Regione Alto Crinale" width="380" />
@@ -39,6 +39,7 @@ L'anfiteatro di Alto Crinale si legge scendendo dall'anello esterno verso il cuo
 È il fronte più freddo e battuto dai venti, affacciato sulle città operose e sulle fonderie settentrionali. Proprio qui, sulla cresta battuta dalle tormente tra **Monte Zanna Bianca** e **Rifugio Betulla Bianca** (`2450 m`), nacque la prima capannina solitaria di **Vento Alto**; mentre nella conca ampia e riparata a fondovalle si è sviluppato lo scalo di **Ala Bianca**.
 * **Stato confinante**: **Confederazione del Nord**
 * **Monte (`2650 m`)**: **Monte Zanna Bianca**
+* **Capannina Vento Alto (`2450 m`)**: cresta tra Monte Zanna Bianca e Rifugio Betulla Bianca *(prima sentinella storica)*
 * **Rifugio (`2250 m`)**: **Rifugio Betulla Bianca**
 * **Valico (`1900 m`)**: **Valico del Lupo Bianco**
 * **Piana (`700 m`)**: **Piana del Giglio Bianco**
@@ -58,6 +59,7 @@ Oggi chi sbarca ad Ala Bianca trova un aeroporto alpino affidabile e aperto al c
 È il versante più mite e aperto tutto l'anno, la porta naturale verso i porti meridionali: qui sorge l'antica dogana controllata da **Via Alpina** e qui, nelle Puntate 4–5, **Vento Alto** ha spostato in pianura il proprio **3° polo operativo** (**Vento Alto Analytics**), nella conca più accessibile in ogni stagione.
 * **Stato confinante**: **Repubbliche del Mare**
 * **Monte (`2420 m`)**: **Monte Coda Rossa**
+* **Capannina Vento Alto (`2135 m`)**: cresta tra Monte Coda Rossa e Rifugio Abete Rosso
 * **Rifugio (`1850 m`)**: **Rifugio Abete Rosso**
 * **Valico (`1150 m`)**: **Valico della Volpe Rossa** *(dogana di frontiera)*
 * **Piana (`620 m`)**: **Piana del Papavero Rosso**
@@ -67,7 +69,7 @@ Oggi chi sbarca ad Ala Bianca trova un aeroporto alpino affidabile e aperto al c
 
 <img src="assets/vento-alto.png" alt="Vento Alto: Le Sentinelle della Cresta e Control Room Regionale" width="200" align="left" />
 
-La storia di **Vento Alto** inizia in solitudine a `2450 m`, sulla cresta esposta tra il **Monte Zanna Bianca (`2650 m`)** e il **Rifugio Betulla Bianca (`2250 m`)**, dentro una piccola capannina di legno dove un osservatore trascriveva a mano forza del vento e pressione su taccuini cerati prima che la tormenta strappasse i fili del telegrafo. Da quella prima sentinella solitaria è nata una costellazione di cinquanta stazioni alpine distribuite su tutte le **4 cime**, i **4 rifugi** e i **4 valichi** dell'anello montuoso.
+La storia di **Vento Alto** inizia in solitudine a `2450 m`, sulla cresta esposta tra il **Monte Zanna Bianca (`2650 m`)** e il **Rifugio Betulla Bianca (`2250 m`)**, dentro una piccola capannina di legno dove un osservatore trascriveva a mano forza del vento e pressione su taccuini cerati prima che la tormenta strappasse i fili del telegrafo. Da quella prima sentinella solitaria è nata una costellazione di cinquanta stazioni alpine, guidata dalle **4 capannine di cresta** (una per versante, a metà strada tra rifugio e cima), dai **4 rifugi** e dai **4 valichi** dell'anello montuoso.
 
 Nelle fasi successive, davanti alla piena di milioni di pacchetti radar e serie storiche provenienti da tutta la valle, l'osservatorio compie il salto decisivo: lasciando intatti i sensori sulle creste, scende in pianura nella **Piana del Papavero Rosso (`620 m`)** a **Borgo Porfido Rosso**, aprendo il **3° polo operativo** della regione (**Vento Alto Analytics**).
 
@@ -77,6 +79,7 @@ Nelle fasi successive, davanti alla piena di milioni di pacchetti radar e serie 
 Tra boschi fitti e tornanti che scendono verso i fiumi e i campi di grano d'Occidente, il torrente della **Valle del Fiumelungo** attraversa la piana più bassa della regione: è il corridoio vitale di **Via Alpina**, che da qui coordina trasporti su gomma verso tutti e quattro i valichi.
 * **Stato confinante**: **Terre d'Occidente**
 * **Monte (`2480 m`)**: **Monte Becco Verde**
+* **Capannina Vento Alto (`2265 m`)**: cresta tra Monte Becco Verde e Rifugio Pino Verde
 * **Rifugio (`2050 m`)**: **Rifugio Pino Verde**
 * **Valico (`1500 m`)**: **Valico del Picchio Verde**
 * **Piana (`550 m`)**: **Piana del Trifoglio Verde**
@@ -96,6 +99,7 @@ Oggi la **Control Tower intermodale** di Via Alpina coordina ogni partenza in di
 Sotto le pareti che guardano gli altopiani ventosi d'Oriente, la montagna scende ripida senza lasciare spazio a piane o borghi: al loro posto si apre il **Lago Specchio**, uno specchio d'acqua alpino raggiungibile solo con le navette di **Via Alpina** e osservato dai bollettini pubblici di **Vento Alto**.
 * **Stato confinante**: **Unione d'Oriente**
 * **Monte (`2580 m`)**: **Monte Corno Azzurro**
+* **Capannina Vento Alto (`2365 m`)**: cresta tra Monte Corno Azzurro e Rifugio Cedro Azzurro
 * **Rifugio (`2150 m`)**: **Rifugio Cedro Azzurro**
 * **Valico (`1750 m`)**: **Valico del Cervo Azzurro**
 * **Lago (`1050 m`)**: **Lago Specchio** *(nessuna piana né borgo)*
